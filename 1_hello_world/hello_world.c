@@ -5,6 +5,6 @@ Basic Hello World
 
 #include <stdio.h>
 
-main() {
-    printf("Hello World!");
+int main() {
+    printf(" Hello Princy");
 }
